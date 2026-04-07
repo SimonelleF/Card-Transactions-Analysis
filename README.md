@@ -38,3 +38,11 @@ Key outcomes of this project are:
   4. Detection of potential high-risk customers.
 
 The dashboard helps card brand companies understand revenue and customer segments, supports risk teams in monitoring credit profiles, enables marketing teams to target high-value customers and helps operations identify transaction failures and inefficiencies.
+
+## Screenshots
+
+![Dashboard Page 1](https://github.com/SimonelleF/Card-Transactions-Analysis/blob/main/Page1_Transactions_Overview.png)
+![Dashboard Page 2](https://github.com/SimonelleF/Card-Transactions-Analysis/blob/main/Page2_Merchant_Performance.png)
+![Dashboard Page 3](https://github.com/SimonelleF/Card-Transactions-Analysis/blob/main/Page3_Customer_Demographics.png)
+![Dashboard Page 4](https://github.com/SimonelleF/Card-Transactions-Analysis/blob/main/Page4_Card_Insights.png)
+
