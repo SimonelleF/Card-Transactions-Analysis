@@ -41,8 +41,8 @@ The dashboard helps card brand companies understand revenue and customer segment
 
 ## Screenshots
 
-![Dashboard Page 1](https://github.com/SimonelleF/Card-Transactions-Analysis/blob/main/Page1_Transactions_Overview.png)
-![Dashboard Page 2](https://github.com/SimonelleF/Card-Transactions-Analysis/blob/main/Page2_Merchant_Performance.png)
-![Dashboard Page 3](https://github.com/SimonelleF/Card-Transactions-Analysis/blob/main/Page3_Customer_Demographics.png)
-![Dashboard Page 4](https://github.com/SimonelleF/Card-Transactions-Analysis/blob/main/Page4_Card_Insights.png)
+![Dashboard Page 1](https://github.com/SimonelleF/Card-Transactions-Analysis/blob/main/Dashboard%20Screenshots/Page1_Transactions_Overview.png)
+![Dashboard Page 2](https://github.com/SimonelleF/Card-Transactions-Analysis/blob/main/Dashboard%20Screenshots/Page2_Merchant_Performance.png)
+![Dashboard Page 3](https://github.com/SimonelleF/Card-Transactions-Analysis/blob/main/Dashboard%20Screenshots/Page3_Customer_Demographics.png)
+![Dashboard Page 4](https://github.com/SimonelleF/Card-Transactions-Analysis/blob/main/Dashboard%20Screenshots/Page4_Card_Insights.png)
 
