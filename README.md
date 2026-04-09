@@ -21,13 +21,13 @@ The dashboard was built using the following tools:
 5. DAX: Utilized to create calculated measures and conditional columns
 
 ## Data Source
-Data on ~10 M card transactions recorded in the U.S.A from 2010 to 2019 from Kaggle with details on transactions, cards, users, merchants and merchant category codes.
+Data on ~10 M card transactions recorded in the U.S.A from 2010 to 2019 from Kaggle with details on transactions, cards, users, merchants and merchant category codes. Here is the dataset link:
 [Dataset Link](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets)
 
 ## Highlights
 * Financial Transactions lead to the generation of large amounts of transaction, user, merchant and card data. However, raw transactional datasets are often complex and difficult to interpret without proper analysis and visualization.
 * This project aims to create an analytical solution which converts raw data into meaningful insights and helps to analyze card transactions.
-* Transaction data was optimized and merchant category data was converted to csv format in Python
+* Transaction data was optimized and merchant category data was converted to csv format in Python.
 * All the data files were stored in a MySQL database and then integrated with Power BI for analysis.
 
 ## Conclusion
